@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SRC-Vibe-Coding-Version--V7-/static/css/main.4efc67d0.css",
+    "main.js": "/SRC-Vibe-Coding-Version--V7-/static/js/main.05c516ed.js",
+    "index.html": "/SRC-Vibe-Coding-Version--V7-/index.html",
+    "main.4efc67d0.css.map": "/SRC-Vibe-Coding-Version--V7-/static/css/main.4efc67d0.css.map",
+    "main.05c516ed.js.map": "/SRC-Vibe-Coding-Version--V7-/static/js/main.05c516ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4efc67d0.css",
+    "static/js/main.05c516ed.js"
+  ]
+}
