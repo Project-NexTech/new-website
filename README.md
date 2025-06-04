@@ -1,4 +1,4 @@
-# New Website
+# SRC Vibe Coding Version (V7)
 
 This is a basic React.js project. To get started:
 

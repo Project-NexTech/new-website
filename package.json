@@ -1,8 +1,8 @@
 {
-  "name": "Project NexTech New Website",
-  "version": "0.2.1",
+  "name": "src-vibe-coding-version-v7",
+  "version": "1.0.0",
   "private": true,
-  "homepage": "https://beta.projectnextech.org/",
+  "homepage": "https://SRCPloetoe.github.io/SRC-Vibe-Coding-Version--V7-/",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
