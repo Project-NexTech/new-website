@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/SRC-Vibe-Coding-Version--V7-/static/css/main.4efc67d0.css",
-    "main.js": "/SRC-Vibe-Coding-Version--V7-/static/js/main.05c516ed.js",
+    "main.css": "/SRC-Vibe-Coding-Version--V7-/static/css/main.a801750e.css",
+    "main.js": "/SRC-Vibe-Coding-Version--V7-/static/js/main.9e9d5761.js",
     "index.html": "/SRC-Vibe-Coding-Version--V7-/index.html",
-    "main.4efc67d0.css.map": "/SRC-Vibe-Coding-Version--V7-/static/css/main.4efc67d0.css.map",
-    "main.05c516ed.js.map": "/SRC-Vibe-Coding-Version--V7-/static/js/main.05c516ed.js.map"
+    "main.a801750e.css.map": "/SRC-Vibe-Coding-Version--V7-/static/css/main.a801750e.css.map",
+    "main.9e9d5761.js.map": "/SRC-Vibe-Coding-Version--V7-/static/js/main.9e9d5761.js.map"
   },
   "entrypoints": [
-    "static/css/main.4efc67d0.css",
-    "static/js/main.05c516ed.js"
+    "static/css/main.a801750e.css",
+    "static/js/main.9e9d5761.js"
   ]
 }
