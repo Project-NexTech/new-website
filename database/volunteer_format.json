@@ -1,0 +1,192 @@
+{
+  "_id": ObjectId("..."),
+
+  "generalInfo": {
+    "firstName": "Shounak", 
+    "fullName": "Shounak Ray Chaudhuri", 
+    "ageCategory": "High School", 
+    "country": "United States (US)", 
+    "region": "San Diego (US 1)", 
+    "discord": {
+      "joinedDiscord": true,
+      "username": "srcp",
+      "userId": "587795678718328832", 
+      "activityLevel": 5
+    }
+  },
+
+  "personalId": {
+    "nickname": "",
+    "dateOfBirth": ISODate("2008-08-10"),
+    "highSchoolGradYear": 2026,
+    "postalCode": "92131",
+    "email": {
+      "school": "sraychaudhuri2026@francisparker.org",
+      "personal": "srcploetoe@gmail.com",
+      "nextech": "sraychaudhuri@projectnextech.org"
+    },
+    "phone": "+1 (858) 305-2087"
+  },
+
+  "affiliation": {
+    "locationObject": ObjectId("..."),
+    "schoolUniversityName": "Francis Parker School",
+    "roboticsParticipation": "FRC",
+    "roboticsAffiliation": "No",
+    "roboticsTeamNumber": "2485"
+  },
+
+  "interest": {
+    "friendsVolunteering": "Yes",
+    "interestFactors": [
+      "There was food at the meetings (if you joined in person)",
+      "I am looking for volunteering opportunities",
+      "I am looking for leadership opportunities",
+      "I am looking to develop my resume and college application",
+      "I joined my school's Project NexTech club",
+      "I want to fulfill volunteering requirements for my school or something else",
+      "I want to earn National Honor Society (NHS) credit",
+      "I want to earn the President's Volunteer Service Award (PVSA)",
+      "I want to help students in my community",
+      "I want to help students in many parts of the world",
+      "I want to get to know other students in Project NexTech",
+      "I want to expand STEM education to a new region",
+      "Just for fun"
+    ],
+    "studentType": "STEM",
+    "whatLookingFor": "I am looking to build an organization that will be able to help thousands of students gain access to STEM education across the world",
+    "whyVolunteer": "I have witnessed first-hand the inequalities that face our world today, particularly when it comes to the world's young people and access to eduaction. I created Project NexTech because I wanted students across the world to be able to share their privilege and STEM access with other young people who don't necessarily have access to it already, with the goals of inspiring young people to pursue STEM careers later in life and to kickstart their journey and interests in STEM fields."
+  },
+
+  "subjectAreas": {
+    "skills": [ 
+      "Power Tools / Workshop Skills",
+      "Robot Assembly (physical assembly, not the programming language)",
+      "TinkerCAD",
+      "Onshape",
+      "SolidWorks, Fusion360, AutoCAD, or other CAD software that isn't TinkerCAD or Onshape",
+      "Java",
+      "Python",
+      "Computer Vision (YOLO and OpenCV Python library)",
+      "Machine Learning (TensorFlow or PyTorch Python library)",
+      "HTML",
+      "JavaScript",
+      "CSS",
+      "Scratch",
+      "Other object-oriented programming language not mentioned (such as C, C++, etc.)",
+      "Algebra",
+      "Geometry",
+      "Calculus",
+      "Physics (mechanics, e.g. forces, torque, etc.)",
+      "Physics (electromagnetism, e.g. fields, circuits, etc.)",
+      "Physics (modern, e.g. wave behavior, nuclear, basic quantum, etc.)",
+      "Environmental Science",
+      "Chemistry",
+      "Biology"
+    ],
+    "pastActivities": [ 
+      "F.I.R.S.T. Lego League (FLL)",
+      "F.I.R.S.T. Tech Challenge (FTC)",
+      "F.I.R.S.T. Robotics Competition (FRC)",
+      "VEX IQ",
+      "Science Fair (such as ISEF-affiliated fairs)",
+      "Science Olympiad",
+      "Speech and Debate",
+      "Model United Nations",
+      "Math Olympiad / American Mathematics Competition",
+      "Other STEM Olympiads (USACO, USABO, USAPhO, etc., and their international equivalents)",
+      "STEM Volunteering (through robotics or other organizations like Project NexTech)"
+    ],
+    "departmentSelections": [
+      "1 - Build",
+      "2 - CAD",
+      "3 - Programming",
+      "4 - Physics/Math",
+      "5 - Natural Sciences",
+      "6 - Robotics",
+      "7 - Research",
+      "A - Marketing",
+      "B - Logistics",
+      "C - Policy/International",
+      "D - Developers"
+    ]
+  },
+
+  "availability": {
+    "contributionWays": [ 
+      "IRL Teaching",
+      "IRL Meetings",
+      "Online Meetings",
+      "Online Tasks"
+    ],
+    "creditsToFulfill": [ 
+      "Mandatory school requirement",
+      "NHS credit",
+      "PVSA credit"
+    ],
+    "plannedHoursNext12Months": "250+ hours",
+    "desiredInvolvementLevel": "Executive Committee",
+    "expectedStayUntil": "Indefinitely",
+    "continueAfterHSGrad": "Yes",
+    "continueAfterUni4Years": "Yes",
+    "alignmentWithOtherActivities": "Very well"
+  },
+
+  "leadershipIntent": {
+    "currentPosition": "Active EC"
+  },
+
+  "status": "Active", 
+  "joinDate": ISODate("2023-05-19"),
+  "notes": "",
+
+  "hourRequestsMade": [
+    ObjectId("..."),
+    ObjectId("..."),
+    ObjectId("..."),
+    ObjectId("..."),
+    ObjectId("..."),
+    ObjectId("..."),
+    ObjectId("..."),
+    ObjectId("..."),
+    ObjectId("..."),
+    ObjectId("..."),
+    ObjectId("..."),
+    ObjectId("..."),
+    ObjectId("..."),
+    ObjectId("..."),
+    ObjectId("..."),
+    ObjectId("..."),
+    ObjectId("..."),
+    ObjectId("..."),
+    ObjectId("..."),
+    ObjectId("..."),
+    ObjectId("..."),
+    ObjectId("..."),
+    ObjectId("..."),
+    ObjectId("..."),
+    ObjectId("..."),
+    ObjectId("..."),
+    ObjectId("..."),
+    ObjectId("...")
+  ],
+  "eventsAttended": [
+    ObjectId("..."),
+    ObjectId("..."),
+    ObjectId("..."),
+    ObjectId("..."),
+    ObjectId("..."),
+    ObjectId("..."),
+    ObjectId("..."),
+    ObjectId("..."),
+    ObjectId("..."),
+    ObjectId("..."),
+    ObjectId("..."),
+    ObjectId("..."),
+    ObjectId("..."),
+    ObjectId("..."),
+    ObjectId("..."),
+    ObjectId("..."),
+    ObjectId("...")
+  ]
+}
