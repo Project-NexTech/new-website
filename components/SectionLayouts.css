@@ -1,0 +1,14 @@
+@media (min-width: 1200px) {
+  .section-card-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5vw 5vw;
+    align-items: stretch;
+  }
+  .section-card-grid .card-module {
+    width: 25vw;
+    margin: 0;
+    box-sizing: border-box;
+    border: none;
+  }
+} 

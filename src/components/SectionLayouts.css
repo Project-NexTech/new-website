@@ -1,0 +1,28 @@
+@media (min-width: 1200px) {
+  .section {
+    display: flex;
+    margin-left: 7.5vw;
+    margin-right: 7.5vw;
+    margin-top: 50px;
+    gap: 5vw;
+    align-items: flex-start;
+  }
+  .section-30-50 .module-30 { width: 30vw; }
+  .section-30-50 .module-50 { width: 50vw; }
+  .section-50-30 .module-50 { width: 50vw; }
+  .section-50-30 .module-30 { width: 30vw; }
+  .section-40-40 .module-40 { width: 40vw; }
+  .section-25-25-25 .module-25 { width: 25vw; }
+  .section-card-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2.5vw 3vw;
+    align-items: stretch;
+  }
+  .section-card-grid .card-module {
+    width: 26vw;
+    margin-bottom: 0;
+  }
+}
+
+/* Ensure no overlap with navbar/footer/announcements bar by not using position: fixed or absolute here */ 
