@@ -10,7 +10,7 @@ function Navbar() {
     <nav className="navbar">
       <div className="navbar-left">
         <Link to="/" className="logo-link">
-          <img src={process.env.PUBLIC_URL + '/img/NexTech Logo 3.png'} alt="NexTech Logo" className="logo-img" />
+          <img src={'./img/NexTech Logo 3.png'} alt="NexTech Logo" className="logo-img" />
         </Link>
         <span className="mobile-logo-text">Project NexTech</span>
       </div>

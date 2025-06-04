@@ -233,7 +233,7 @@ function MainContent() {
             </button>
             <div className="carousel-img-stack">
               <img
-                src={process.env.PUBLIC_URL + '/img/' + images[currentIdx]}
+                src={'./img/' + images[currentIdx]}
                 alt="STEM Education"
                 className={currentImgClass}
                 draggable={false}
@@ -241,7 +241,7 @@ function MainContent() {
               />
               {isAnimating && nextIdx !== null && (
                 <img
-                  src={process.env.PUBLIC_URL + '/img/' + images[nextIdx]}
+                  src={'./img/' + images[nextIdx]}
                   alt="STEM Education"
                   className={nextImgClass}
                   draggable={false}
@@ -267,7 +267,7 @@ function MainContent() {
 
 function App() {
   return (
-    <BrowserRouter basename="/SRC-Vibe-Coding-Version--V7-">
+    <BrowserRouter basename={process.env.PUBLIC_URL === '.' ? '' : process.env.PUBLIC_URL}>
       <Routes>
         <Route path="/" element={<div className="App"><AnnouncementsBar /><Navbar /><MainContent /><Footer /></div>} />
         <Route path="/terms" element={<Terms />} />

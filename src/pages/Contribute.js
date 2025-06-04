@@ -41,7 +41,7 @@ function Contribute() {
       <div className="responsive-container flex items-center justify-center min-h-screen">
         <div className="flex flex-col items-center text-center w-full" style={{ maxWidth: '800px' }}>
           <img
-            src="img/page_not_found.png"
+            src="./img/page_not_found.png"
             alt="Page Not Found"
             className="responsive-image mb-6"
           />
