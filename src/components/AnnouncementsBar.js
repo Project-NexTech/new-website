@@ -4,14 +4,14 @@ function AnnouncementsBar() {
   return (
     <div className="announcements-bar">
       <div className="announcements-content">
-        <span>This is a news bar for temporary messages that people visiting the site may need to see!</span>
+        <span>Welcome to the beta version of our new website! New pages will be added very soon!</span>
         <a
           href="https://discord.gg/6yHhgpC"
           className="announcements-btn"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Button ↗
+          Discord ↗
         </a>
       </div>
     </div>
